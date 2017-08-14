@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Challenge1Of100</string>
+    <string name="next_activity">next Activity</string>
+    <string name="text">Text</string>
+</resources>
